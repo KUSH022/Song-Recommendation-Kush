@@ -1,5 +1,5 @@
 import streamlit as st
-st.set_page_config(page_title="Song Recommendation By Kush", page_icon=":control_knobs:" layout="wide")
+st.set_page_config(page_title="Song Recommendation By Kush", page_icon=":control_knobs:",layout="wide")
 
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
