@@ -8,7 +8,7 @@ import streamlit.components.v1 as components
 
 hide_st_style = """
             <style>
-       
+            #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             header {isibility: hidden;}
             </style>
